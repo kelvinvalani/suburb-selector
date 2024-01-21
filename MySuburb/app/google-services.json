@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211263491917",
+    "project_id": "suburb-selector",
+    "storage_bucket": "suburb-selector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211263491917:android:c4a27a6f769d9456ff3104",
+        "android_client_info": {
+          "package_name": "com.example.suburbselectorfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211263491917-7lcclc69gitgb0mgvh5f7huho8e67h9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApn_ZC-qDgsTkLB2t-YpFmBQYZI7RAm5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211263491917-7lcclc69gitgb0mgvh5f7huho8e67h9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,326 @@
+station_stop_id,SAL
+"﻿""17204""",Wallan
+19980,Melton South
+19981,Rockbank
+19982,Deer Park
+19998,Sunbury
+20020,Ardeer
+20029,Craigieburn
+20288,Ararat
+20289,Avenel
+20290,Maddingley
+20291,Bairnsdale
+20292,Ballan
+20293,Ballarat Central
+20294,Beaufort
+20295,Benalla
+20296,Bendigo
+20297,Birregurra
+20298,Broadford
+20299,Bunyip
+20300,Camperdown
+20301,Castlemaine
+20302,Chiltern
+20303,Clarkefield
+20304,Colac
+20305,Corio
+20306,Dingee
+20307,Donnybrook
+20308,Drouin
+20309,Eaglehawk
+20310,Echuca
+20311,Elmore
+20312,Euroa
+20313,Garfield
+20314,Geelong
+20315,New Gisborne
+20316,Heathcote Junction
+20317,Kangaroo Flat
+20318,Kerang
+20319,Kilmore East
+20320,Kyneton
+20321,Lara
+20323,Little River
+20324,Longwarry
+20325,Macedon
+20326,Malmsbury
+20327,Marshall
+20328,Moe
+20329,Mooroopna
+20330,Morwell
+20331,Murchison East
+20332,Nagambie
+20333,Nar Nar Goon
+20334,North Geelong
+20335,North Shore
+20336,Pyramid Hill
+20337,Riddells Creek
+20338,Rochester
+20339,Rosedale
+20341,Sale
+20342,Seymour
+20343,Shepparton
+20344,South Geelong
+20345,Springhurst
+20346,Stratford
+20347,Swan Hill
+20348,Tallarook
+20349,Terang
+20350,Trafalgar
+20351,Traralgon
+20352,Tynong
+20353,Violet Town
+20355,Wandong
+20356,Wangaratta
+20357,Warragul
+20358,Warrnambool
+20359,Winchelsea
+20360,Wodonga
+20361,Woodend
+20362,Yarragon
+20616,Nhill
+20617,Dimboola
+20618,Horsham
+22239,West Melbourne
+22240,Footscray
+22241,Sunshine
+22244,Sydenham
+22247,Richmond
+22248,Caulfield East
+22249,Clayton
+22250,Dandenong
+22251,Berwick
+22252,Pakenham
+22253,Essendon
+22254,Broadmeadows
+22257,Warrnambool
+43469,Wendouree
+44951,Creswick
+44952,Clunes
+44953,Maryborough
+45918,Stawell
+47482,Talbot
+47641,Waurn Ponds
+47642,Epsom
+47647,Manor Lakes
+47648,Tarneit
+48804,Cobblebank
+49295,Raywood
+49296,Huntly
+51809,Goornong
+52011,Ravenhall
+"﻿""15351""",Sunbury
+15353,Diggers Rest
+19827,Crib Point
+19828,Crib Point
+19829,Crib Point
+19830,Bittern
+19831,Hastings
+19832,Tyabb
+19833,Somerville
+19834,Baxter
+19835,Glen Iris
+19836,Frankston
+19837,Malvern East
+19838,Malvern East
+19839,Malvern East
+19840,Mount Waverley
+19844,Belgrave
+19845,Tecoma
+19846,Upwey
+19847,Ashburton
+19848,Ashburton
+19849,Glen Iris
+19850,Camberwell
+19851,Camberwell
+19852,Camberwell
+19853,Camberwell
+19855,Frankston
+19856,Seaford
+19857,Seaford
+19858,Carrum
+19859,Bonbeach
+19860,Chelsea
+19861,Edithvale
+19862,Aspendale
+19863,Mordialloc
+19864,Parkdale
+19865,Mentone
+19866,Cheltenham
+19867,Upper Ferntree Gully
+19868,Ferntree Gully
+19869,Boronia
+19870,Bayswater
+19871,Heathmont
+19872,Highett
+19873,Glen Waverley
+19874,Glen Waverley
+19875,Mount Waverley
+19876,Lilydale
+19877,Mooroolbark
+19878,Croydon
+19879,Ringwood East
+19880,Pakenham
+19881,Officer
+19882,Beaconsfield
+19883,Berwick
+19884,Narre Warren
+19885,Hallam
+19886,Cranbourne
+19887,Cranbourne North
+19888,Dandenong
+19889,Noble Park
+19890,Noble Park
+19891,Springvale
+19892,Camberwell
+19893,Canterbury
+19894,Surrey Hills
+19895,Surrey Hills
+19896,Mont Albert
+19897,Blackburn
+19898,Blackburn
+19899,Nunawading
+19900,Mitcham
+19901,Ringwood
+19902,Ringwood
+19903,Hawthorn East
+19904,Hawthorn
+19905,Hawthorn
+19906,Burnley
+19907,Richmond
+19908,Richmond
+19909,Toorak
+19910,Kooyong
+19911,Malvern
+19912,Glen Iris
+19913,Springvale
+19914,Clayton South
+19915,Clayton
+19916,Oakleigh
+19917,Oakleigh
+19918,Hughesdale
+19919,Murrumbeena
+19920,Carnegie
+19921,Werribee
+19922,Hoppers Crossing
+19923,Laverton
+19924,Laverton
+19925,Altona
+19926,Altona
+19927,Seaholme
+19928,Northcote
+19929,Northcote
+19930,Fairfield
+19931,Alphington
+19932,Ivanhoe
+19933,Ivanhoe
+19934,Eaglemont
+19935,Heidelberg
+19936,Rosanna
+19937,Moorabbin
+19938,Bentleigh
+19939,Bentleigh
+19941,Ormond
+19942,Glen Huntly
+19943,Caulfield East
+19944,Malvern
+19945,Armadale
+19946,Armadale
+19947,South Yarra
+19948,Sandringham
+19949,Hampton
+19950,Brighton
+19951,Brighton
+19952,Brighton
+19953,Brighton
+19954,Elsternwick
+19955,Ripponlea
+19956,Balaclava
+19957,Windsor
+19958,Prahran
+19959,South Yarra
+19960,Coolaroo
+19961,Glenroy
+19962,Fawkner
+19963,Coburg North
+19964,Coburg North
+19965,Coburg
+19966,Coburg
+19967,Brunswick
+19968,Brunswick
+19969,Brunswick
+19970,Parkville
+19971,North Melbourne
+19972,North Melbourne
+19973,West Melbourne
+19974,Clifton Hill
+19975,Abbotsford
+19976,Abbotsford
+19977,Richmond
+19978,Richmond
+19979,East Melbourne
+19983,Macleod
+19984,Watsonia
+19985,Greensborough
+19986,Montmorency
+19987,Eltham
+19988,Diamond Creek
+19989,Wattle Glen
+19990,Hurstbridge
+19991,Williamstown
+19992,Williamstown
+19993,Williamstown
+19994,Newport
+19995,Spotswood
+19996,Yarraville
+19997,Seddon
+20000,Sydenham
+20001,St Albans
+20002,St Albans
+20003,St Albans
+20004,Sunshine North
+20005,Epping
+20006,Lalor
+20007,Thomastown
+20008,Thomastown
+20009,Reservoir
+20010,Reservoir
+20011,Reservoir
+20012,Preston
+20013,Preston
+20014,Thornbury
+20015,Northcote
+20016,Northcote
+20017,Northcote
+20019,Fitzroy North
+20021,Sunshine
+20022,West Footscray
+20023,West Footscray
+20024,Footscray
+20025,Footscray
+20026,Kensington
+20028,Flemington
+20030,Broadmeadows
+20031,Glenroy
+20032,Glenroy
+20033,Oak Park
+20034,Pascoe Vale
+20035,Strathmore
+20036,Essendon
+20037,Essendon
+20038,Moonee Ponds
+20039,Ascot Vale
+20040,Flemington
+20041,Kensington
+20042,Box Hill
+40220,Roxburgh Park
+40221,Craigieburn
+44817,Coolaroo
+45793,Lynbrook
+45794,Pakenham
+45795,South Morang
+46468,Williams Landing
+52095,Cheltenham
+52159,South Morang
+52160,South Morang
+52161,Mernda

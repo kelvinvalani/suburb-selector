@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    tools:context=".view.MapActivity"
+    tools:visibility="visible">
+
+    <EditText
+        android:id="@+id/et_search"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="search"
+        android:textSize="20sp"
+        android:visibility="gone" />
+
+    <com.mapbox.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/expand"
+        app:layout_anchor="@+id/mapView"
+        app:layout_anchorGravity="center">
+
+
+        <Button
+            android:id="@+id/expand"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_below="@id/et_search"
+            android:onClick="showPanel"
+            android:text="Enter Details"
+            android:textSize="20sp" />
+    </com.mapbox.maps.MapView>
+
+    <ScrollView
+        android:id="@+id/enterLocationsPanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/okrGray"
+        app:behavior_hideable="true"
+        app:behavior_peekHeight="30dp"
+        app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                android:padding="3dp"
+                app:srcCompat="@android:drawable/divider_horizontal_textfield" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:context=".view.EnterLocationsActivity">
+
+
+                <Button
+                    android:id="@+id/button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:onClick="submit_preferences"
+                    android:text="Submit"
+                    android:textColor="@color/black"
+                    app:layout_constraintTop_toTopOf="@id/costSeekBar"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    tools:layout_editor_absoluteY="686dp"
+                    android:layout_marginTop="40dp"
+                    />
+
+                <AutoCompleteTextView
+                    android:id="@+id/selectUniversity"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="32dp"
+                    android:layout_marginBottom="600dp"
+                    android:layout_weight="1"
+                    android:background="@android:drawable/editbox_dropdown_light_frame"
+                    android:hint="Enter University"
+                    android:textColorHint="@color/black"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.53"
+                    tools:ignore="SpeakableTextPresentCheck" />
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Enter University"
+                    android:textColor="@color/black"
+                    app:layout_constraintBottom_toTopOf="@+id/selectUniversity"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.488"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="1.0" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="52dp"
+                    android:text="Enter 3 most travelled to destinations"
+                    android:textColor="@color/black"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/selectUniversity" />
+
+                <AutoCompleteTextView
+                    android:id="@+id/firstMostTravelled"
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@android:drawable/editbox_dropdown_light_frame"
+                    android:hint="Enter Your first most travelled to location here"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/black"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+                <AutoCompleteTextView
+                    android:id="@+id/secondMostTravelled"
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@android:drawable/editbox_dropdown_light_frame"
+                    android:hint="Enter Your second most travelled to location here"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/black"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/firstMostTravelled" />
+
+                <AutoCompleteTextView
+                    android:id="@+id/thirdMostTravelled"
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@android:drawable/editbox_dropdown_light_frame"
+                    android:hint="Enter Your third most travelled to location here"
+                    android:textColor="@color/black"
+                    android:textColorHint="@color/black"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/secondMostTravelled" />
+
+                <SeekBar
+                    android:id="@+id/crimeSeekBar"
+                    style="?progressBarStyle"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:backgroundTintMode="screen"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/crimePrefText"
+                    android:max="10"
+                    android:progress="5"
+                    />
+
+                <TextView
+                    android:id="@+id/crimePrefText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:text="TextView"
+                    android:textColor="@color/black"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/thirdMostTravelled" />
+
+                <SeekBar
+                    android:id="@+id/distSeekBar"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/distPrefText"
+                    tools:layout_editor_absoluteX="169dp"
+                    android:max="10"
+                    android:progress="5"
+                    />
+
+                <TextView
+                    android:id="@+id/distPrefText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:text="TextView"
+                    android:textColor="@color/black"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/crimeSeekBar" />
+
+                <SeekBar
+                    android:id="@+id/costSeekBar"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/costPrefText"
+                    tools:layout_editor_absoluteX="169dp"
+                    android:max="10"
+                    android:progress="5"
+                    />
+
+                <TextView
+                    android:id="@+id/costPrefText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="40dp"
+                    android:text="TextView"
+                    android:textColor="@color/black"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/distSeekBar"
+                    tools:layout_editor_absoluteX="160dp" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
+

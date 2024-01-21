@@ -1,0 +1,136 @@
+{
+  "Users": {
+    "3gGvNOkhZWO8EldESKzLIXSOPRP2": {
+      "age": "12",
+      "email": "test@gmail.com",
+      "favourites": [
+        "Blackburn",
+        "Clayton",
+        "Camberwell"
+      ],
+      "fullName": "Test"
+    },
+    "6q2Kowc0BGYpAvOfZFlfkL9btOt1": {
+      "age": "36",
+      "email": "bob@gmail.com",
+      "favourites": [
+        "Carnegie",
+        "clayton south"
+      ],
+      "fullName": "Bob Marley",
+      "profilePic": "reyna"
+    },
+    "7ZDZhs9DaOU6xA9A3khduWEqJ9P2": {
+      "age": "20",
+      "email": "zuyunfeng@gmail.com",
+      "favourites": [
+        "macleod",
+        "hawthorn"
+      ],
+      "fullName": "zyf"
+    },
+    "E9xJbZkxY2e3VqSjySj4qRAr8VE3": {
+      "age": "21",
+      "email": "jeremy@cameron.org.au",
+      "fullName": "Jeremy Cameron"
+    },
+    "HRgQrNmO48fzByMsSjrmc51GeBk2": {
+      "age": "12",
+      "email": "jake@gmail.com",
+      "favourites": [
+        "Oakleigh",
+        "forest hill",
+        "blackburn south"
+      ],
+      "fullName": "Jake Man"
+    },
+    "UxROHwXrg5QOnq74ZrwZqAz8mEX2": {
+      "age": "22",
+      "email": "kelvin.valani@gmail.com",
+      "fullName": "kelvin",
+      "profilePic": "killjoy"
+    },
+    "iC1qO5kSNQVcNu4axws33KGtkgX2": {
+      "age": "53",
+      "email": "alister@cameron.org.au",
+      "favourites": [
+        "blackburn south"
+      ],
+      "fullName": "Alister Cameron"
+    },
+    "jstbiWRSTmg4u4pyr2jSwRKWVX33": {
+      "age": "18",
+      "email": "yaotest@test.com",
+      "favourites": [
+        "Wheelers Hill",
+        "Notting Hill",
+        "wheelers hill",
+        "notting hill",
+        "mount waverley"
+      ],
+      "fullName": "Test",
+      "profilePic": "sage"
+    },
+    "mGqqhvSLhlbSza48vxtpGlo4mvd2": {
+      "age": "18",
+      "email": "yzhanglio233@gmail.com",
+      "favourites": [
+        "blackburn,Deakin University, Burwood,,,,2,1,2,Rent: $411,Crime: 4.8/10,Transport: 9.9/10"
+      ],
+      "fullName": "yao"
+    },
+    "mic3tZRn7IasBW5YXmUkjBXUuSw2": {
+      "age": "20",
+      "email": "max@gmail.com",
+      "fullName": "Max"
+    },
+    "muGAfaF8GKT4kaGtVqWMc1jgFe13": {
+      "age": "23",
+      "email": "john@smith.com",
+      "fullName": "john smith"
+    },
+    "nZuZKaMTgBNZNATb5pcjBYG58Fb2": {
+      "age": "21",
+      "email": "jeremytest@gmail.com",
+      "favourites": [
+        "Oakleigh East"
+      ],
+      "fullName": "Jeremy Cameron",
+      "profilePic": "chamber"
+    },
+    "ovB6YgTxwCh0L9fbzcC6pPcX21j2": {
+      "age": "23",
+      "email": "profile@pic.com",
+      "favourites": [
+        "footscray"
+      ],
+      "fullName": "profile pic",
+      "profilePic": "sage"
+    },
+    "rDJDHziig8g8DqcH77xsgrcG8ys1": {
+      "age": "33",
+      "email": "mike@hunt.com",
+      "fullName": "mike hunt",
+      "profilePic": "default"
+    },
+    "vs1eD8AAcQOv3oVao8ejGgSVykE3": {
+      "age": "20",
+      "email": "yunfengzu@gmail.com",
+      "favourites": [
+        "kensington,Australian Catholic University, CBD,Domestic Terminal,Hervey Bay,Xanadu Wines,1,2,4,Rent: $416,Crime: 2.9/10,Transport: 9.9/10",
+        "footscray,Australian Catholic University, CBD,Domestic Terminal,Hervey Bay,Xanadu Wines,1,2,4,Rent: $355,Crime: 0.7/10,Transport: 10.0/10"
+      ],
+      "fullName": "zyf"
+    },
+    "yIqsjsYjz1QnEAft0fidyKW99TF2": {
+      "age": "25",
+      "email": "test@test.com",
+      "favourites": [
+        "Notting Hill",
+        "Hawthorn"
+      ],
+      "fullName": "kelvin valani",
+      "profilePic": "reyna"
+    }
+  }
+}

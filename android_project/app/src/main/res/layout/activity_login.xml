@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_activity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".view.LoginActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/logo" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="15dp">
+
+            <EditText
+                android:id="@+id/activity_login_et_user"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:autofillHints=""
+                android:background="@drawable/edit_text_shape"
+                android:hint="user name"
+                android:inputType="text"
+                android:paddingStart="35dp"
+                android:paddingEnd="15dp"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/activity_login_iv_user"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="10dp"
+                android:background="@mipmap/user_blue" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="15dp">
+
+            <EditText
+                android:id="@+id/activity_login_et_password"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:autofillHints=""
+                android:background="@drawable/edit_text_shape"
+                android:hint="password"
+                android:inputType="textPassword"
+                android:paddingStart="35dp"
+                android:paddingEnd="15dp"
+                android:textSize="16sp" />
+
+            <CheckBox
+                android:id="@+id/activity_login_cb_eye"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="15dp"
+                android:background="@drawable/eye_selector"
+                android:button="@null"
+                android:checked="false"
+                android:clickable="false" />
+
+            <Button
+                android:id="@+id/activity_login_btn_eye"
+                android:layout_width="50dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:background="@color/transparent"
+                android:onClick="eyeClick" />
+
+            <ImageView
+                android:id="@+id/activity_login_iv_password"
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="10dp"
+                android:background="@mipmap/password_gray" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/activity_login_btn"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="15dp"
+            android:background="#F44B34"
+            android:onClick="login"
+            android:text="login in"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+             />
+
+
+    </LinearLayout>
+
+</LinearLayout>

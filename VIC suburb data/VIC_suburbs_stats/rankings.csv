@@ -1,0 +1,573 @@
+coordinates,university,campus,suburb,candidate_ranking,rent_ranking,crime_ranking,transport_ranking,rent
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Plenty,1,0.12,0.59,0.9,392
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Macleod,2,0.11,0.51,0.96,396
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,South Morang,3,0.13,0.49,0.96,390
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Watsonia North,4,0.09,0.63,0.83,401
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Yallambie,5,0.23,0.5,0.79,340
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Yarrambat,6,0.05,0.56,0.87,450
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Lalor,7,0.19,0.32,0.96,351
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Greensborough,8,0.09,0.37,0.95,404
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Watsonia,9,0.13,0.27,0.95,385
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Reservoir,10,0.18,0.18,0.97,360
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Thomastown,11,0.21,0.15,0.96,350
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Epping,12,0.17,0.18,0.96,361
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Mill Park,13,0.17,0.3,0.81,366
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Kingsbury,14,0.17,0.14,0.93,361
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Preston,15,0.12,0.12,0.98,392
+"-37.721470725876586, 145.05018442866754",La Trobe University,Bundoora,Heidelberg West,16,0.28,0.06,0.85,306
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Murrumbeena,1,0.13,0.45,1.0,386
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Carnegie,2,0.12,0.42,1.0,395
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Wheelers Hill,3,0.03,0.55,0.9,481
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Mount waverley,4,0.03,0.43,0.96,476
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Notting Hill,5,0.16,0.32,0.94,371
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Oakleigh east,6,0.07,0.4,0.94,425
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Burwood,7,0.08,0.38,0.92,411
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Clayton South,8,0.14,0.24,1.0,381
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Glen Waverley,9,0.03,0.36,0.98,480
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Bentleigh east,10,0.02,0.53,0.8,500
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Springvale,11,0.18,0.14,0.99,357
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Clarinda,12,0.12,0.43,0.73,394
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Huntingdale,13,0.1,0.25,0.89,400
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Ashburton,14,0.04,0.24,0.96,455
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Malvern East,15,0.07,0.19,0.97,421
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Chadstone,16,0.07,0.21,0.9,421
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Oakleigh,17,0.09,0.09,0.99,410
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Ashwood,18,0.12,0.19,0.83,391
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Scoresby,19,0.09,0.2,0.79,406
+"-37.91281395077763, 145.1359658075086",Monash University,Clayton,Mulgrave,20,0.06,0.24,0.77,430
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Hawthorn,1,0.1,0.29,0.99,400
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Kensington,2,0.08,0.29,0.99,416
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Flemington,3,0.3,0.09,0.92,300
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Footscray,4,0.18,0.07,1.0,355
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,North Melbourne,5,0.14,0.11,0.97,381
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Carlton,6,0.17,0.1,0.92,365
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,South Yarra,7,0.08,0.11,0.99,415
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Middle park,8,0.01,0.24,0.92,602
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Parkville,9,0.12,0.07,0.97,396
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Albert Park,10,0.01,0.21,0.92,590
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Abbotsford,11,0.06,0.07,1.0,425
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,West Melbourne,12,0.13,0.06,0.93,388
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Richmond,13,0.05,0.08,0.97,441
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Docklands,14,0.08,0.05,0.95,411
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,East Melbourne,15,0.03,0.04,1.0,480
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,East Melbourne,16,0.03,0.04,1.0,480
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Collingwood,17,0.06,0.05,0.94,425
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,South Melbourne,18,0.07,0.05,0.92,421
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.808206032339776, 144.96373474983307",RMIT,CBD,Fitzroy,20,0.04,0.05,0.95,451
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Surrey Hills,1,0.03,0.57,0.98,462
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Balwyn North,2,0.01,0.61,0.92,554
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Balwyn,3,0.04,0.57,0.92,451
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Glen Iris,4,0.05,0.5,0.97,450
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Canterbury,5,0.01,0.48,0.98,515
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Hawthorn East,6,0.08,0.37,0.98,415
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Armadale,7,0.07,0.36,0.99,421
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Kew East,8,0.03,0.47,0.92,471
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Mont Albert,9,0.04,0.38,0.98,451
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Camberwell,10,0.02,0.39,0.96,486
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Malvern,11,0.05,0.31,0.95,450
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Toorak,12,0.02,0.27,0.97,486
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Kew,13,0.03,0.29,0.92,476
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,South Yarra,14,0.08,0.11,0.99,415
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Kooyong,15,0.01,0.19,0.97,590
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Melbourne,16,0.14,0.02,1.0,381
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Abbotsford,17,0.06,0.07,1.0,425
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Burnley,18,0.05,0.07,1.0,440
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Richmond,19,0.05,0.08,0.97,441
+"-37.82072257848187, 145.03840511677043",Swinburne University of Technology,Hawthorn,Cremorne,20,0.01,0.11,0.91,550
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Hawthorn,1,0.1,0.29,0.99,400
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Kensington,2,0.08,0.29,0.99,416
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Flemington,3,0.3,0.09,0.92,300
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Footscray,4,0.18,0.07,1.0,355
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,North Melbourne,5,0.14,0.11,0.97,381
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Carlton,6,0.17,0.1,0.92,365
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,South Yarra,7,0.08,0.11,0.99,415
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Middle park,8,0.01,0.24,0.92,602
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Parkville,9,0.12,0.07,0.97,396
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Albert Park,10,0.01,0.21,0.92,590
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Abbotsford,11,0.06,0.07,1.0,425
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,West Melbourne,12,0.13,0.06,0.93,388
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Richmond,13,0.05,0.08,0.97,441
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Docklands,14,0.08,0.05,0.95,411
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,East Melbourne,15,0.03,0.04,1.0,480
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,East Melbourne,16,0.03,0.04,1.0,480
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Collingwood,17,0.06,0.05,0.94,425
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,South Melbourne,18,0.07,0.05,0.92,421
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.798345879755125, 144.9608881670303",University of Melbourne,Parkville,Fitzroy,20,0.04,0.05,0.95,451
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Tottenham,1,0.71,0.0,0.87,150
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Avondale Heights,2,0.1,0.52,0.86,400
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Aberfeldie,3,0.05,0.48,0.91,440
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Travancore,4,0.19,0.29,0.92,351
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Yarraville,5,0.03,0.38,0.98,462
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,West Footscray,6,0.19,0.25,0.95,351
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Kensington,7,0.08,0.29,0.99,416
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Ascot Vale,8,0.16,0.2,0.98,370
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Flemington,9,0.3,0.09,0.92,300
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Moonee Ponds,10,0.11,0.21,0.99,400
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Sunshine North,11,0.22,0.11,0.96,341
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Sunshine,12,0.23,0.04,1.0,340
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Essendon West,13,0.05,0.56,0.64,450
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,North Melbourne,14,0.14,0.11,0.97,381
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Parkville,15,0.12,0.07,0.97,396
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,Melbourne,16,0.14,0.02,1.0,381
+"-37.79371434526608, 144.89849564004695",Victoria University,Footscray,West Melbourne,17,0.13,0.06,0.93,388
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Hawthorn,1,0.1,0.29,0.99,400
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Kensington,2,0.08,0.29,0.99,416
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Flemington,3,0.3,0.09,0.92,300
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Footscray,4,0.18,0.07,1.0,355
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,North Melbourne,5,0.14,0.11,0.97,381
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Carlton,6,0.17,0.1,0.92,365
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,South Yarra,7,0.08,0.11,0.99,415
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Middle park,8,0.01,0.24,0.92,602
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Parkville,9,0.12,0.07,0.97,396
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Albert Park,10,0.01,0.21,0.92,590
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Abbotsford,11,0.06,0.07,1.0,425
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,West Melbourne,12,0.13,0.06,0.93,388
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Richmond,13,0.05,0.08,0.97,441
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Docklands,14,0.08,0.05,0.95,411
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,East Melbourne,15,0.03,0.04,1.0,480
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,East Melbourne,16,0.03,0.04,1.0,480
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Collingwood,17,0.06,0.05,0.94,425
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,South Melbourne,18,0.07,0.05,0.92,421
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.806734068408865, 144.97780534798017",Australian Catholic University,CBD,Fitzroy,20,0.04,0.05,0.95,451
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Hawthorn,1,0.1,0.29,0.99,400
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Kensington,2,0.08,0.29,0.99,416
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Flemington,3,0.3,0.09,0.92,300
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Footscray,4,0.18,0.07,1.0,355
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,North Melbourne,5,0.14,0.11,0.97,381
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Carlton,6,0.17,0.1,0.92,365
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,South Yarra,7,0.08,0.11,0.99,415
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Middle park,8,0.01,0.24,0.92,602
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Parkville,9,0.12,0.07,0.97,396
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Albert Park,10,0.01,0.21,0.92,590
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Abbotsford,11,0.06,0.07,1.0,425
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,West Melbourne,12,0.13,0.06,0.93,388
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Richmond,13,0.05,0.08,0.97,441
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Docklands,14,0.08,0.05,0.95,411
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,East Melbourne,15,0.03,0.04,1.0,480
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,East Melbourne,16,0.03,0.04,1.0,480
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Collingwood,17,0.06,0.05,0.94,425
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,South Melbourne,18,0.07,0.05,0.92,421
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.81278575281138, 144.9611392818542",Charles Darwin University,CBD,Fitzroy,20,0.04,0.05,0.95,451
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Hawthorn,1,0.1,0.29,0.99,400
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Kensington,2,0.08,0.29,0.99,416
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Flemington,3,0.3,0.09,0.92,300
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Footscray,4,0.18,0.07,1.0,355
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,North Melbourne,5,0.14,0.11,0.97,381
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Carlton,6,0.17,0.1,0.92,365
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,South Yarra,7,0.08,0.11,0.99,415
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Middle park,8,0.01,0.24,0.92,602
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Parkville,9,0.12,0.07,0.97,396
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Albert Park,10,0.01,0.21,0.92,590
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Abbotsford,11,0.06,0.07,1.0,425
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,West Melbourne,12,0.13,0.06,0.93,388
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Richmond,13,0.05,0.08,0.97,441
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Docklands,14,0.08,0.05,0.95,411
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,East Melbourne,15,0.03,0.04,1.0,480
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,East Melbourne,16,0.03,0.04,1.0,480
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Collingwood,17,0.06,0.05,0.94,425
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,South Melbourne,18,0.07,0.05,0.92,421
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.81799302167178, 144.95486288185438",CQUniversity,CBD,Fitzroy,20,0.04,0.05,0.95,451
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Surrey Hills,1,0.03,0.57,0.98,462
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Vermont,2,0.06,0.6,0.91,426
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Blackburn South,3,0.08,0.56,0.91,410
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Blackburn,4,0.08,0.48,0.99,411
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Balwyn,5,0.04,0.57,0.92,451
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Glen Iris,6,0.05,0.5,0.97,450
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Canterbury,7,0.01,0.48,0.98,515
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Forest Hill,8,0.11,0.39,0.95,396
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Mont Albert,9,0.04,0.38,0.98,451
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Camberwell,10,0.02,0.39,0.96,486
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Glen Waverley,11,0.03,0.36,0.98,480
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Box Hill South,12,0.06,0.4,0.9,425
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Vermont South,13,0.02,0.39,0.92,496
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Box hill,14,0.14,0.14,1.0,381
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Ashburton,15,0.04,0.24,0.96,455
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Malvern East,16,0.07,0.19,0.97,421
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Chadstone,17,0.07,0.21,0.9,421
+"-37.84429493400839, 145.11277056442717",Deakin University,Burwood,Ashwood,18,0.12,0.19,0.83,391
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Hawthorn,1,0.1,0.29,0.99,400
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Kensington,2,0.08,0.29,0.99,416
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Flemington,3,0.3,0.09,0.92,300
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Footscray,4,0.18,0.07,1.0,355
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,North Melbourne,5,0.14,0.11,0.97,381
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Carlton,6,0.17,0.1,0.92,365
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,South Yarra,7,0.08,0.11,0.99,415
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Middle park,8,0.01,0.24,0.92,602
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Parkville,9,0.12,0.07,0.97,396
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Albert Park,10,0.01,0.21,0.92,590
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Abbotsford,11,0.06,0.07,1.0,425
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,West Melbourne,12,0.13,0.06,0.93,388
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Richmond,13,0.05,0.08,0.97,441
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Docklands,14,0.08,0.05,0.95,411
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,East Melbourne,15,0.03,0.04,1.0,480
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,East Melbourne,16,0.03,0.04,1.0,480
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Collingwood,17,0.06,0.05,0.94,425
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,South Melbourne,18,0.07,0.05,0.92,421
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.816205766036134, 144.96282729719897",La Trobe University,Collins Street,Fitzroy,20,0.04,0.05,0.95,451
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Carnegie,1,0.12,0.42,1.0,395
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Glen Iris,2,0.05,0.5,0.97,450
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Gardenvale,3,0.28,0.3,0.92,301
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Ormond,4,0.12,0.37,0.99,395
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Brighton East,5,0.01,0.48,0.94,600
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Brighton East,6,0.01,0.48,0.94,600
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Armadale,7,0.07,0.36,0.99,421
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Glen Huntly,8,0.12,0.29,0.99,391
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Brighton,9,0.01,0.43,0.96,600
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Ripponlea,10,0.12,0.27,0.97,391
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,St kilda East,11,0.12,0.31,0.91,396
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Elwood,12,0.08,0.33,0.91,415
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Elsternwick,13,0.05,0.28,0.98,441
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Malvern,14,0.05,0.31,0.95,450
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Balaclava,15,0.13,0.12,0.99,386
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Malvern East,16,0.07,0.19,0.97,421
+"-37.87720841411355, 145.04575131625123",Monash University,Caufield,Mckinnon,17,0.01,0.55,0.27,516
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,Pascoe vale south,1,0.07,0.44,0.91,425
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,thornbury,2,0.12,0.29,0.99,391
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,Kensington,3,0.08,0.29,0.99,416
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,Ascot Vale,4,0.16,0.2,0.98,370
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,Essendon,5,0.14,0.26,0.93,380
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,Brunswick West,6,0.17,0.23,0.91,366
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,Flemington,7,0.3,0.09,0.92,300
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,Moonee ponds,8,0.11,0.21,0.99,400
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,brunswick east,9,0.07,0.3,0.94,421
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,coburg,10,0.06,0.23,0.98,430
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,North Melbourne,11,0.14,0.11,0.97,381
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,fitzroy north,12,0.02,0.23,0.97,481
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,Carlton,13,0.17,0.1,0.92,365
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,Carlton North,14,0.01,0.22,0.94,552
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,Brunswick,15,0.05,0.14,0.97,441
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,Melbourne,16,0.14,0.02,1.0,381
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,west melbourne,17,0.13,0.06,0.93,388
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,collingwood,18,0.06,0.05,0.94,425
+"-37.783428686550764, 144.95887454375247",Monash University,Parkville,fitzroy,19,0.04,0.05,0.95,451
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,bonbeach,1,0.12,0.48,0.98,391
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,mount eliza,2,0.02,0.67,0.86,512
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,langwarrin south,3,0.21,0.63,0.68,346
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,chelsea,4,0.15,0.27,0.99,375
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,clyde north,5,0.08,0.49,0.84,410
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,cranbourne west,6,0.15,0.33,0.9,375
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,cranbourne south,7,0.03,0.41,0.93,470
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,Frankston South,8,0.07,0.59,0.71,420
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,Langwarrin,9,0.17,0.51,0.67,365
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,Seaford,10,0.19,0.16,0.99,351
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,Skye,11,0.09,0.46,0.78,410
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,mornington,12,0.11,0.3,0.9,400
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,cranbourne,13,0.22,0.1,0.98,342
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,carrum,14,0.09,0.2,0.99,406
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,Frankston,15,0.22,0.08,0.91,342
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,Frankston North,16,0.26,0.09,0.86,315
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,baxter,17,0.17,0.15,0.87,360
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,carrum downs,18,0.16,0.2,0.81,370
+"-38.15265192691574, 145.13578790238898",Monash University,Peninsula,patterson lakes,19,0.06,0.2,0.87,430
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,Pascoe vale south,1,0.07,0.44,0.91,425
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,thornbury,2,0.12,0.29,0.99,391
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,Kensington,3,0.08,0.29,0.99,416
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,Ascot Vale,4,0.16,0.2,0.98,370
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,Essendon,5,0.14,0.26,0.93,380
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,Brunswick West,6,0.17,0.23,0.91,366
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,Flemington,7,0.3,0.09,0.92,300
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,Moonee ponds,8,0.11,0.21,0.99,400
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,brunswick east,9,0.07,0.3,0.94,421
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,coburg,10,0.06,0.23,0.98,430
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,North Melbourne,11,0.14,0.11,0.97,381
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,fitzroy north,12,0.02,0.23,0.97,481
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,Carlton,13,0.17,0.1,0.92,365
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,Carlton North,14,0.01,0.22,0.94,552
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,parkville,15,0.12,0.07,0.97,396
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,Melbourne,16,0.14,0.02,1.0,381
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,west melbourne,17,0.13,0.06,0.93,388
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,collingwood,18,0.06,0.05,0.94,425
+"-37.77205196041036, 144.9580866977185",RMIT,Brunswick,fitzroy,19,0.04,0.05,0.95,451
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Plenty,1,0.12,0.59,0.9,392
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Macleod,2,0.11,0.51,0.96,396
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,South Morang,3,0.13,0.49,0.96,390
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Watsonia North,4,0.09,0.63,0.83,401
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Yallambie,5,0.23,0.5,0.79,340
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Yarrambat,6,0.05,0.56,0.87,450
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Lalor,7,0.19,0.32,0.96,351
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Greensborough,8,0.09,0.37,0.95,404
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Watsonia,9,0.13,0.27,0.95,385
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Reservoir,10,0.18,0.18,0.97,360
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Thomastown,11,0.21,0.15,0.96,350
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Epping,12,0.17,0.18,0.96,361
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Mill Park,13,0.17,0.3,0.81,366
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Kingsbury,14,0.17,0.14,0.93,361
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Preston,15,0.12,0.12,0.98,392
+"-37.68018469176766, 145.0649914606774",RMIT,Bundoora,Heidelberg West,16,0.28,0.06,0.85,306
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,wonga park,1,0.02,0.71,0.91,491
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,heathmont,2,0.1,0.57,0.96,400
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,croydon north,3,0.08,0.59,0.93,410
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,warranwood,4,0.07,0.72,0.81,423
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,montrose,5,0.17,0.48,0.93,365
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,croydon hills,6,0.02,0.66,0.88,491
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,kilsyth south,7,0.06,0.56,0.9,426
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,park orchards,8,0.01,0.65,0.82,601
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,ringwood north,9,0.05,0.62,0.78,436
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,ringwood east,10,0.15,0.32,0.97,380
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,wantirna,11,0.06,0.36,0.95,428
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,chirnside park,12,0.05,0.37,0.93,443
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,croydon south,13,0.08,0.32,0.92,410
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,kilsyth,14,0.12,0.3,0.9,391
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,lilydale,15,0.16,0.2,0.95,369
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,bayswater north,16,0.17,0.21,0.9,360
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,bayswater,17,0.15,0.17,0.96,375
+"-37.801414707258786, 145.28651001624888",Swinburne University of Technology,Croydon,ringwood,18,0.14,0.08,0.99,381
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,heathmont,1,0.1,0.57,0.96,400
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,vermont,2,0.06,0.6,0.91,426
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,mitcham,3,0.09,0.47,0.99,406
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,kilsyth south,4,0.06,0.56,0.9,426
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,nunawading,5,0.12,0.37,0.99,391
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,wheelers hill,6,0.03,0.55,0.9,481
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,forest hill,7,0.11,0.39,0.95,396
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,rowville,8,0.05,0.45,0.93,441
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,mount waverley,9,0.03,0.43,0.96,476
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,ferntree gully,10,0.13,0.3,0.96,386
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,vermont south,11,0.02,0.39,0.92,496
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,burwood east,12,0.05,0.35,0.92,439
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,boronia,13,0.15,0.19,0.96,376
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,bayswater,14,0.15,0.17,0.96,375
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,bayswater north,15,0.17,0.21,0.9,360
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,knoxfield,16,0.07,0.26,0.93,421
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,ringwood,17,0.14,0.08,0.99,381
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,scoresby,18,0.09,0.2,0.79,406
+"-37.873854597806485, 145.2345609199569",Swinburne University of Technology,Wantirna,wantirna south,19,0.05,0.22,0.79,441
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Hawthorn,1,0.1,0.29,0.99,400
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Kensington,2,0.08,0.29,0.99,416
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Flemington,3,0.3,0.09,0.92,300
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Footscray,4,0.18,0.07,1.0,355
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,North Melbourne,5,0.14,0.11,0.97,381
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Carlton,6,0.17,0.1,0.92,365
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,South Yarra,7,0.08,0.11,0.99,415
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Middle park,8,0.01,0.24,0.92,602
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Parkville,9,0.12,0.07,0.97,396
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Albert Park,10,0.01,0.21,0.92,590
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Abbotsford,11,0.06,0.07,1.0,425
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,West Melbourne,12,0.13,0.06,0.93,388
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Richmond,13,0.05,0.08,0.97,441
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Docklands,14,0.08,0.05,0.95,411
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,East Melbourne,15,0.03,0.04,1.0,480
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,East Melbourne,16,0.03,0.04,1.0,480
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Collingwood,17,0.06,0.05,0.94,425
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,South Melbourne,18,0.07,0.05,0.92,421
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.816961251300555, 144.96886458185423",Torrens University of Australia,Flinders street,Fitzroy,20,0.04,0.05,0.95,451
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Surrey Hills,1,0.03,0.57,0.98,462
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Balwyn North,2,0.01,0.61,0.92,554
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Balwyn,3,0.04,0.57,0.92,451
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Glen Iris,4,0.05,0.5,0.97,450
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Canterbury,5,0.01,0.48,0.98,515
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Hawthorn East,6,0.08,0.37,0.98,415
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Armadale,7,0.07,0.36,0.99,421
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Kew East,8,0.03,0.47,0.92,471
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Mont Albert,9,0.04,0.38,0.98,451
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,hawthorn,10,0.1,0.29,0.99,400
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Camberwell,11,0.02,0.39,0.96,486
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Malvern,12,0.05,0.31,0.95,450
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Toorak,13,0.02,0.27,0.97,486
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Kew,14,0.03,0.29,0.92,476
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,South Yarra,15,0.08,0.11,0.99,415
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Kooyong,16,0.01,0.19,0.97,590
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Melbourne,17,0.14,0.02,1.0,381
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Abbotsford,18,0.06,0.07,1.0,425
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Richmond,19,0.05,0.08,0.97,441
+"-37.82803219862564, 145.02254819349332",University of Melbourne,Burnley,Cremorne,20,0.01,0.11,0.91,550
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,manor lakes,1,0.18,0.79,0.99,360
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,tarneit,2,0.15,0.44,0.98,380
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,seabrook,3,0.17,0.49,0.84,361
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,burnside,4,0.1,0.5,0.88,400
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,point cook,5,0.11,0.5,0.85,400
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,altona meadows,6,0.22,0.34,0.88,341
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,williams landing,7,0.07,0.38,0.97,420
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,deer park,8,0.2,0.19,1.0,350
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,seaholme,9,0.04,0.38,0.95,451
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,truganina,10,0.13,0.42,0.8,390
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,laverton,11,0.24,0.12,0.98,330
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,altona,12,0.13,0.24,0.96,385
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,sunshine west,13,0.21,0.29,0.8,346
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,laverton north,14,0.47,0.0,0.81,240
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,werribee south,15,0.21,0.28,0.75,350
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,altona north,16,0.1,0.25,0.88,400
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,wyndham vale,17,0.22,0.21,0.78,343
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,derrimut,18,0.1,0.19,0.81,400
+"-37.889698469796265, 144.69298417846008",University of Melbourne,Werribee,brooklyn,19,0.12,0.05,0.87,391
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Hawthorn,1,0.1,0.29,0.99,400
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Kensington,2,0.08,0.29,0.99,416
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Flemington,3,0.3,0.09,0.92,300
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Footscray,4,0.18,0.07,1.0,355
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,North Melbourne,5,0.14,0.11,0.97,381
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Carlton,6,0.17,0.1,0.92,365
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,South Yarra,7,0.08,0.11,0.99,415
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Middle park,8,0.01,0.24,0.92,602
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Parkville,9,0.12,0.07,0.97,396
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Albert Park,10,0.01,0.21,0.92,590
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Abbotsford,11,0.06,0.07,1.0,425
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,West Melbourne,12,0.13,0.06,0.93,388
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Richmond,13,0.05,0.08,0.97,441
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Docklands,14,0.08,0.05,0.95,411
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,East Melbourne,15,0.03,0.04,1.0,480
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,East Melbourne,16,0.03,0.04,1.0,480
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Collingwood,17,0.06,0.05,0.94,425
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,South Melbourne,18,0.07,0.05,0.92,421
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.8246373844401, 144.96869864716984",University of Melbourne,Southbank,Fitzroy,20,0.04,0.05,0.95,451
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Hawthorn,1,0.1,0.29,0.99,400
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Kensington,2,0.08,0.29,0.99,416
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Flemington,3,0.3,0.09,0.92,300
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Footscray,4,0.18,0.07,1.0,355
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,North Melbourne,5,0.14,0.11,0.97,381
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Carlton,6,0.17,0.1,0.92,365
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,South Yarra,7,0.08,0.11,0.99,415
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Middle park,8,0.01,0.24,0.92,602
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Parkville,9,0.12,0.07,0.97,396
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Albert Park,10,0.01,0.21,0.92,590
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Abbotsford,11,0.06,0.07,1.0,425
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,West Melbourne,12,0.13,0.06,0.93,388
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Richmond,13,0.05,0.08,0.97,441
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Docklands,14,0.08,0.05,0.95,411
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,East Melbourne,15,0.03,0.04,1.0,480
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,East Melbourne,16,0.03,0.04,1.0,480
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Collingwood,17,0.06,0.05,0.94,425
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,South Melbourne,18,0.07,0.05,0.92,421
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.81804718124634, 144.96408465539227",Victoria University,Flinders Street,Fitzroy,20,0.04,0.05,0.95,451
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Hawthorn,1,0.1,0.29,0.99,400
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Kensington,2,0.08,0.29,0.99,416
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Flemington,3,0.3,0.09,0.92,300
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Footscray,4,0.18,0.07,1.0,355
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,North Melbourne,5,0.14,0.11,0.97,381
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Carlton,6,0.17,0.1,0.92,365
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,South Yarra,7,0.08,0.11,0.99,415
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Middle park,8,0.01,0.24,0.92,602
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Parkville,9,0.12,0.07,0.97,396
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Albert Park,10,0.01,0.21,0.92,590
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Abbotsford,11,0.06,0.07,1.0,425
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,West Melbourne,12,0.13,0.06,0.93,388
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Richmond,13,0.05,0.08,0.97,441
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Docklands,14,0.08,0.05,0.95,411
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,East Melbourne,15,0.03,0.04,1.0,480
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,East Melbourne,16,0.03,0.04,1.0,480
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Collingwood,17,0.06,0.05,0.94,425
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,South Melbourne,18,0.07,0.05,0.92,421
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.81730611820295, 144.9649222046106",Victoria University,Flinders Lane,Fitzroy,20,0.04,0.05,0.95,451
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Hawthorn,1,0.1,0.29,0.99,400
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Kensington,2,0.08,0.29,0.99,416
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Flemington,3,0.3,0.09,0.92,300
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Footscray,4,0.18,0.07,1.0,355
+"-37.81467245887584, 144.95535419719883",Victoria University,King,North Melbourne,5,0.14,0.11,0.97,381
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Carlton,6,0.17,0.1,0.92,365
+"-37.81467245887584, 144.95535419719883",Victoria University,King,South Yarra,7,0.08,0.11,0.99,415
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Middle park,8,0.01,0.24,0.92,602
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Parkville,9,0.12,0.07,0.97,396
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Albert Park,10,0.01,0.21,0.92,590
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Abbotsford,11,0.06,0.07,1.0,425
+"-37.81467245887584, 144.95535419719883",Victoria University,King,West Melbourne,12,0.13,0.06,0.93,388
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Richmond,13,0.05,0.08,0.97,441
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Docklands,14,0.08,0.05,0.95,411
+"-37.81467245887584, 144.95535419719883",Victoria University,King,East Melbourne,15,0.03,0.04,1.0,480
+"-37.81467245887584, 144.95535419719883",Victoria University,King,East Melbourne,16,0.03,0.04,1.0,480
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Collingwood,17,0.06,0.05,0.94,425
+"-37.81467245887584, 144.95535419719883",Victoria University,King,South Melbourne,18,0.07,0.05,0.92,421
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.81467245887584, 144.95535419719883",Victoria University,King,Fitzroy,20,0.04,0.05,0.95,451
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Hawthorn,1,0.1,0.29,0.99,400
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Kensington,2,0.08,0.29,0.99,416
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Flemington,3,0.3,0.09,0.92,300
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Footscray,4,0.18,0.07,1.0,355
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,North Melbourne,5,0.14,0.11,0.97,381
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Carlton,6,0.17,0.1,0.92,365
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,South Yarra,7,0.08,0.11,0.99,415
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Middle park,8,0.01,0.24,0.92,602
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Parkville,9,0.12,0.07,0.97,396
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Albert Park,10,0.01,0.21,0.92,590
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Abbotsford,11,0.06,0.07,1.0,425
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,West Melbourne,12,0.13,0.06,0.93,388
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Richmond,13,0.05,0.08,0.97,441
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Docklands,14,0.08,0.05,0.95,411
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,East Melbourne,15,0.03,0.04,1.0,480
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,East Melbourne,16,0.03,0.04,1.0,480
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Collingwood,17,0.06,0.05,0.94,425
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,South Melbourne,18,0.07,0.05,0.92,421
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Port Melbourne,19,0.01,0.11,0.92,540
+"-37.81226835518794, 144.9606439585769",Victoria University,Queen,Fitzroy,20,0.04,0.05,0.95,451
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,tottenham,1,0.71,0.0,0.87,150
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,kingsville,2,0.18,0.47,0.86,355
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,seddon,3,0.04,0.45,0.98,460
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,yarraville,4,0.03,0.38,0.98,462
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,west footscray,5,0.19,0.25,0.95,351
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,kensington,6,0.08,0.29,0.99,416
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,flemington,7,0.3,0.09,0.92,300
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,sunshine west,8,0.21,0.29,0.8,346
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,spotswood,9,0.04,0.24,0.98,456
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,altona north,10,0.1,0.25,0.88,400
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,braybrook,11,0.27,0.07,0.88,312
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,north melbourne,12,0.14,0.11,0.97,381
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,maidstone,13,0.14,0.14,0.9,381
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,south yarra,14,0.08,0.11,0.99,415
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,melbourne,15,0.14,0.02,1.0,381
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,west melbourne,16,0.13,0.06,0.93,388
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,southbank,17,0.08,0.07,0.94,411
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,docklands,18,0.08,0.05,0.95,411
+"-37.80450587975402, 144.89848879771955",Victoria University,Footscray Nicholson,brooklyn,19,0.12,0.05,0.87,391
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,burnside heights,1,0.08,0.62,0.79,411
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,burnside,2,0.1,0.5,0.88,400
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,avondale heights,3,0.1,0.52,0.86,400
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,delahey,4,0.2,0.46,0.78,350
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,keilor east,5,0.09,0.46,0.87,406
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,keilor downs,6,0.18,0.36,0.85,360
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,deer park,7,0.2,0.19,1.0,350
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,keilor,8,0.1,0.47,0.82,400
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,ardeer,9,0.22,0.18,0.98,340
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,caroline springs,10,0.1,0.41,0.87,400
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,kings park,11,0.25,0.32,0.8,321
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,cairnlea,12,0.1,0.34,0.85,400
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,sunshine north,13,0.22,0.11,0.96,341
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,albion,14,0.28,0.11,0.88,301
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,sunshine,15,0.23,0.04,1.0,340
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,keilor park,16,0.12,0.25,0.9,392
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,albanvale,17,0.24,0.23,0.78,325
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,maidstone,18,0.14,0.14,0.9,381
+"-37.7522230651568, 144.79803721491538",Victoria University,St Albans,hillside,19,0.14,0.47,0.22,380
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,burnside,1,0.1,0.5,0.88,400
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,avondale heights,2,0.1,0.52,0.86,400
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,newport,3,0.03,0.44,1.0,471
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,seddon,4,0.04,0.45,0.98,460
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,delahey,5,0.2,0.46,0.78,350
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,keilor east,6,0.09,0.46,0.87,406
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,deer park,7,0.2,0.19,1.0,350
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,keilor,8,0.1,0.47,0.82,400
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,caroline springs,9,0.1,0.41,0.87,400
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,ascot vale,10,0.16,0.2,0.98,370
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,laverton north,11,0.47,0.0,0.81,240
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,keilor park,12,0.12,0.25,0.9,392
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,footscray,13,0.18,0.07,1.0,355
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,essendon west,14,0.05,0.56,0.64,450
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,altona north,15,0.1,0.25,0.88,400
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,maidstone,16,0.14,0.14,0.9,381
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,derrimut,17,0.1,0.19,0.81,400
+"-37.77716537847656, 144.83542897258846",Victoria University,Sunshine,hillside,18,0.14,0.47,0.22,380
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,manor lakes,1,0.18,0.79,0.99,360
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,tarneit,2,0.15,0.44,0.98,380
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,seabrook,3,0.17,0.49,0.84,361
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,burnside,4,0.1,0.5,0.88,400
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,point cook,5,0.11,0.5,0.85,400
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,altona meadows,6,0.22,0.34,0.88,341
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,williams landing,7,0.07,0.38,0.97,420
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,deer park,8,0.2,0.19,1.0,350
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,seaholme,9,0.04,0.38,0.95,451
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,truganina,10,0.13,0.42,0.8,390
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,laverton,11,0.24,0.12,0.98,330
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,altona,12,0.13,0.24,0.96,385
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,sunshine west,13,0.21,0.29,0.8,346
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,laverton north,14,0.47,0.0,0.81,240
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,werribee south,15,0.21,0.28,0.75,350
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,altona north,16,0.1,0.25,0.88,400
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,wyndham vale,17,0.22,0.21,0.78,343
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,derrimut,18,0.1,0.19,0.81,400
+"-37.894522279493216, 144.70229128237773",Victoria University,Werribee,brooklyn,19,0.12,0.05,0.87,391

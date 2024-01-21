@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.maps:android-core:10.7.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/135e49fd62abb39df77a4bc11cea327b/transformed/android-core-10.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/135e49fd62abb39df77a4bc11cea327b/transformed/android-core-10.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/135e49fd62abb39df77a4bc11cea327b/transformed/android-core-10.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.maps/android-core/10.7.0/7972bcdfc4a0dc3cd37ab6b3e365645904104fe/android-core-10.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.maps/android-core/10.7.0/2407b8e547932c20b832a804da9923fa70f247cb/android-core-10.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

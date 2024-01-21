@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.plugin:maps-viewport:10.7.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fc0a3d53de9e660bc206b68fbee00279/transformed/maps-viewport-10.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fc0a3d53de9e660bc206b68fbee00279/transformed/maps-viewport-10.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fc0a3d53de9e660bc206b68fbee00279/transformed/maps-viewport-10.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.plugin/maps-viewport/10.7.0/39ade993fd6d274563ca989594e373795f35fd2a/maps-viewport-10.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.plugin/maps-viewport/10.7.0/fb473063550df447fea539bdd3c75733a8a42256/maps-viewport-10.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bottom_sheet.xml" value="0.2495" />
+        <entry key="app/src/main/res/drawable/circle_red.xml" value="0.2495" />
+        <entry key="app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.131" />
+        <entry key="app/src/main/res/drawable/profile_circle.xml" value="0.2495" />
+        <entry key="app/src/main/res/drawable/rounded_grey.xml" value="0.2495" />
+        <entry key="app/src/main/res/drawable/rounded_red.xml" value="0.2495" />
+        <entry key="app/src/main/res/layout/activity_forgot_password.xml" value="0.20521590423257802" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.20521590423257802" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.2963709677419355" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.2552260450541679" />
+        <entry key="app/src/main/res/layout/activity_register_user.xml" value="0.20521590423257802" />
+        <entry key="app/src/main/res/layout/card_layout.xml" value="0.24566794002757342" />
+        <entry key="app/src/main/res/layout/cardview_row.xml" value="0.2872200263504611" />
+        <entry key="app/src/main/res/layout/favourites_layout.xml" value="0.20521590423257802" />
+        <entry key="app/src/main/res/layout/layout_bottom_sheet.xml" value="0.23908835018382346" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

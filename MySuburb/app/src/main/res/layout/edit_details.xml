@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".editDetails">
+
+
+    <TextView
+        android:id="@+id/editPageDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/editPageDescription"
+        android:textAlignment="center"
+        android:textColor="@color/dark_grey"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </TextView>
+
+    <ImageView
+        android:layout_height="200dp"
+        android:layout_width="200dp"
+        android:id="@+id/imageSlider"
+        android:layout_margin="20dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/editPageDescription"
+        app:items_visible="three"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tap your profile picture above to change it"
+        app:layout_constraintTop_toBottomOf="@id/imageSlider"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:paddingTop="10dp"/>
+
+
+    <EditText
+        android:id="@+id/editFullName"
+        android:layout_width="340dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:hint="Full Name"
+        android:textColorHint="@color/white"
+        android:inputType="textEmailAddress"
+        android:textSize="18sp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imageSlider"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/rounded_grey"
+        android:drawableLeft="@drawable/ic_baseline_person_24"
+        android:drawablePadding="20dp"
+        android:paddingLeft="15dp">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/editAge"
+        android:layout_width="340dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:hint="Age"
+        android:textColorHint="@color/white"
+        android:inputType="textEmailAddress"
+        android:textSize="18sp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/editFullName"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_grey"
+        android:drawableLeft="@drawable/ic_baseline_person_24"
+        android:drawablePadding="20dp"
+        android:paddingLeft="15dp">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/editEmail"
+        android:layout_width="340dp"
+        android:layout_height="50dp"
+        android:ems="10"
+        android:hint="Email Address"
+        android:textColorHint="@color/white"
+        android:inputType="textEmailAddress"
+        android:textSize="18sp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/editAge"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_grey"
+        android:drawableLeft="@drawable/ic_baseline_email_24"
+        android:drawablePadding="20dp"
+        android:paddingLeft="15dp">
+
+    </EditText>
+
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/submitEdit"
+        android:layout_width="340dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/rounded_red"
+        android:text="Save Changes"
+        android:textSize="18sp"
+        android:textColor="@color/white"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/editEmail">
+
+    </androidx.appcompat.widget.AppCompatButton>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:progressBarStyleLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        tools:ignore="MissingConstraints"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+    </ProgressBar>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

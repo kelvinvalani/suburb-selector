@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Used in Spinner/spinner_2.java -->
+    <string-array name="unis">
+        <item></item>
+        <item>Australian Catholic University, CBD</item>
+        <item>Charles Darwin University, CBD</item>
+        <item>CQUniversity, CBD</item>
+        <item>Deakin University, Burwood</item>
+        <item>La Trobe University, Bundoora</item>
+        <item>La Trobe University, Collins Street</item>
+        <item>Monash University, Clayton</item>
+        <item>Monash University, Caufield</item>
+        <item>Monash University, Parkville</item>
+        <item>Monash University, Peninsula</item>
+        <item>RMIT, CBD</item>
+        <item>RMIT, Brunswick</item>
+        <item>RMIT, Bundoora</item>
+        <item>Swinburne University of Technology, Hawthorn</item>
+        <item>Swinburne University of Technology, Croydon</item>
+        <item>Swinburne University of Technology, Wantirna</item>
+        <item>Torrens University of Australia, Flinders street</item>
+        <item>University of Melbourne, Parkville</item>
+        <item>University of Melbourne, Burnley</item>
+        <item>University of Melbourne, Werribee</item>
+        <item>University of Melbourne, Southbank</item>
+        <item>Victoria University, Footscray</item>
+        <item>Victoria University, Flinders Street</item>
+        <item>Victoria University, Flinders Lane</item>
+        <item>Victoria University, King</item>
+        <item>Victoria University, Queen</item>
+        <item>Victoria University, Footscray Nicholson</item>
+        <item>Victoria University, St Albans</item>
+        <item>Victoria University, Sunshine</item>
+        <item>Victoria University, Werribee</item>
+    </string-array>
+</resources>

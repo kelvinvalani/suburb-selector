@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.plugin:maps-overlay:10.7.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dce525ec693592678011269d9803ad47/transformed/maps-overlay-10.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dce525ec693592678011269d9803ad47/transformed/maps-overlay-10.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dce525ec693592678011269d9803ad47/transformed/maps-overlay-10.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.plugin/maps-overlay/10.7.0/65ad4ba99c71a8dba412be8aa3a92aba9d9bec0a/maps-overlay-10.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.plugin/maps-overlay/10.7.0/ef11f63e3999fc70b004cdb13206c29ca0315a8b/maps-overlay-10.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
